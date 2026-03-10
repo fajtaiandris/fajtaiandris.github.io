@@ -1,10 +1,18 @@
 @import "{{ site.theme }}";
 
-pre {
-  line-height: 1;
-  font-family: monospace;
+.highlight pre,
+pre,
+pre code,
+.highlight code {
+  line-height: 1 !important;
 }
 
-pre code {
-  line-height: 1;
+.highlight pre {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  white-space: pre;
 }
