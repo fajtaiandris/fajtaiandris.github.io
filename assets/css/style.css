@@ -6,3 +6,14 @@ pre {
 pre code {
   line-height: 1;
 }
+
+.markdown-body {
+    max-width: 700px;
+    padding: 10px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
