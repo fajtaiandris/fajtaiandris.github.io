@@ -34,7 +34,10 @@ The recipe pages's brutalist design is brought to life by the custom [dynamic ar
        ┛            
 ```
 [take a look](https://indigo-chord.vercel.app) ★ `svelte`  
-![indigo_chord showcase](/assets/chord.gif)
+This project was born as a way to showcase some of my work after researching the _formal model of popular music_ for a few years. Not shy to say I've come up with the best overall chord naming algorithm by breaking away from mainstream music theory. The aim of this app is to walk you through that boringly scientific identification process on _fun user interface_. Also, finally using svelte for something I actually end up shipping.  
+![indigo_chord showcase](/assets/chord.gif)  
+Probably the most interesting bit design-wise was coming up with a responsive keyboard design and making the UI look and feel like a casette player.  
+
 
 <br/>
 
