@@ -11,8 +11,6 @@ listing some of my _finest work_
 talk to me at andris.fajkusz@gmail.com
 
 <br/>
-<br/>
-<br/>
 
 ```text
 ▄▖      ▄▖▗     ▌ 
@@ -28,8 +26,6 @@ A community site for the glorious niche of AeroPress _(a plastic tube for coffee
 The recipe pages's brutalist design is brought to life by the custom [dynamic art generator](https://aerostack.xyz/asset-generator) that gives each coffee recipe it's own vibe, which is also reflected on link previews.
 
 <br/>
-<br/>
-<br/>
 
 ```text
 •   ┓•      ┓      ┓
@@ -37,11 +33,9 @@ The recipe pages's brutalist design is brought to life by the custom [dynamic ar
 ┗┛┗┗┻┗┗┫┗┛━┗┛┗┗┛┛ ┗┻
        ┛            
 ```
-[take a look](https://indigo-chord.vercel.app) ★ `svelte`
+[take a look](https://indigo-chord.vercel.app) ★ `svelte`  
 ![indigo_chord showcase](/assets/chord.gif)
 
-<br/>
-<br/>
 <br/>
 
 ```text
